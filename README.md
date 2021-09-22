@@ -1,4 +1,4 @@
-### Hi there 👋, i'm Felipe 
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe</h1>
 
 <h3 align="center">Developer instructor focused on helping people learn new technologies</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nunesfb" alt="nunesfb" /> </p>
@@ -8,7 +8,7 @@
 
 - ▶️ I regulary post videos on [https://www.youtube.com/c/TecEdu4All](https://www.youtube.com/c/TecEdu4All)
 
-- 💬 Ask me about **JavaScript, TypeScript HTML, CSS, SQL, NodeJS**
+- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, SQL, NodeJS**
 
 - 📫 How to reach me **nunesfb@gmail.com**
 
