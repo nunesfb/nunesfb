@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe</h1>
+<h1 align="center">Hi there 👋, I'm Felipe</h1>
 
 <h3 align="center">Developer instructor focused on helping people learn new technologies</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nunesfb" alt="nunesfb" /> </p>
