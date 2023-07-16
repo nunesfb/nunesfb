@@ -8,7 +8,7 @@
 
 - ▶️ I regulary post videos on [https://www.youtube.com/c/TecEdu4All](https://www.youtube.com/c/TecEdu4All)
 
-- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, SQL, NodeJS**
+- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, SQL, NodeJS, React**
 
 - 📫 How to reach me **nunesfb@gmail.com**
 
