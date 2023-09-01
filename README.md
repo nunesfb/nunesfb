@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nunesfb" alt="nunesfb" /> </p>
 
 
-- 🔭 I’m currently working on [Trybe](https://github.com/betrybe)
+- 🔭 I’m currently working on: [Trybe](https://github.com/betrybe)
 
-- ▶️ I regulary post videos on [https://www.youtube.com/c/TecEdu4All](https://www.youtube.com/c/TecEdu4All)
+- ▶️ I regulary post videos on: [https://www.youtube.com/c/TecEdu4All](https://www.youtube.com/c/TecEdu4All)
 
-- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, SQL, NodeJS, React**
+- 💬 Ask me about: **JavaScript, TypeScript, HTML, CSS, SQL, NodeJS, React**
 
-- 📫 How to reach me **nunesfb@gmail.com**
+- 📫 How to reach me: **nunesfb@gmail.com**
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/>
