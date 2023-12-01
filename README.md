@@ -25,7 +25,7 @@
 <br/>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesfb" />
+   
 </p>
 
 <br/>
@@ -42,12 +42,6 @@
 </p>
 
 <h1 align="left">📺 Latest YouTube Videos</h1>
-
-<br/>
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesfb" />
-</p>
 
 <br/>
 
