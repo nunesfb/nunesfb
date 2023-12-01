@@ -14,9 +14,11 @@
 
 - 💬 Ask me about: **JavaScript, TypeScript, HTML, CSS, SQL, NodeJS, React, React Native, Informatics in Education, Next, Database, Software Engineer, Tests and other things in this areas**
 
+<br/>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-becker-nunes-b561a576/" target="_blank">
-    <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="linkedin" width="170" height="90"/></p><p align="center"> 
+    <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" alt="linkedin" width="100" height="100"/></p><p align="center"> 
   </a>
 </p>
 
@@ -25,7 +27,7 @@
 <br/>
 
 <p align="center">
-   
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesfb" />
 </p>
 
 <br/>
@@ -40,8 +42,6 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></p><p align="center">
 </p>
-
-<h1 align="left">📺 Latest YouTube Videos</h1>
 
 <br/>
 
