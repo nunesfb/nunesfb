@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nunesfb" alt="nunesfb" /> </p>
 
 
-- 🔭 I’m currently working on: [Trybe](https://github.com/betrybe)
+- 🔭 I’m currently working on: **[Trybe](https://www.betrybe.com/)**
 
-- ▶️ I regulary post videos on: [https://www.youtube.com/c/TecEdu4All](https://www.youtube.com/c/TecEdu4All)
+- ▶️ I regulary post videos on: **[TecEdu4All](https://www.youtube.com/c/TecEdu4All)**
 
-- 💬 Ask me about: **JavaScript, TypeScript, HTML, CSS, SQL, NodeJS, React**
+- 💬 Ask me about: **JavaScript, TypeScript, HTML, CSS, SQL, NodeJS, React, React Native, Informatics in Education, Next, Database, Software Engineer, Tests and other things in this areas**
 
 - 📫 How to reach me: **nunesfb@gmail.com**
 
@@ -21,7 +21,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nunesfb&show_icons=true" alt="nunesfb"/> 
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-becker-nunes-b561a576/">
+    <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="linkedin" width="180" height="100"/></p><p align="center"> 
+  </a>
 </p>
 
 <!--
