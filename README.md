@@ -6,11 +6,13 @@
 
 <br/>
 
-- 👤 Developer instructor focused on helping people learn new technologies
+- 👤 Developer and instructor focused on helping people learn new technologies
 
 - ▶️ I regulary post videos on: **[TecEdu4All](https://www.youtube.com/c/TecEdu4All)**
 
-- 💬 Ask me about: **JavaScript, TypeScript, HTML, CSS, SQL, NodeJS, React, React Native, Informatics in Education, Next, Database, Software Engineer, Tests and other things in this areas**
+- 💬 Ask me about: **JavaScript, TypeScript, HTML, CSS, SQL, NodeJS, React, React Native, C#, Python, SQL, NoSQL, Software Engineer, Tests, Informatics in Education and other things in this areas**
+  
+- ✉️ Contact on **[Linkedin](linkedin.com/in/felipe-becker-nunes-b561a576)**
 
 <br/>
 
