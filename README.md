@@ -16,12 +16,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/felipe-becker-nunes-b561a576/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" alt="linkedin" width="100" height="100"/></p><p align="center"> 
-  </a>
-</p>
-
 <h1 align="left">📘 Top languages</h1>
 
 <br/>
