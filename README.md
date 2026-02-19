@@ -19,12 +19,6 @@
 <h1 align="left">📘 Top languages</h1>
 
 <br/>
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesfb" />
-</p>
-
-<br/>
   
 <p align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/>
