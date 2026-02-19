@@ -12,7 +12,7 @@
 
 - 💬 Ask me about: **JavaScript, TypeScript, HTML, CSS, SQL, NodeJS, React, React Native, C#, Python, SQL, NoSQL, Software Engineer, Tests, Informatics in Education and other things in this areas**
   
-- ✉️ Contact on **[Linkedin](www.linkedin.com/in/felipe-becker-nunes-b561a576)**
+- ✉️ Contact on **[Linkedin](https://www.linkedin.com/in/felipe-becker-nunes-b561a576)**
 
 <br/>
 
